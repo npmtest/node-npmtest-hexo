@@ -1,4 +1,7 @@
-# test coverage for  [hexo (v3.3.1)](https://hexo.io/)  [![npm package](https://img.shields.io/npm/v/npmtest-hexo.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-hexo) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-hexo.svg)](https://travis-ci.org/npmtest/node-npmtest-hexo)
+# npmtest-hexo
+
+#### basic test coverage for  [hexo (v3.3.1)](https://hexo.io/)  [![npm package](https://img.shields.io/npm/v/npmtest-hexo.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-hexo) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-hexo.svg)](https://travis-ci.org/npmtest/node-npmtest-hexo)
+
 #### A fast, simple & powerful blog framework, powered by Node.js.
 
 [![NPM](https://nodei.co/npm/hexo.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/hexo)
