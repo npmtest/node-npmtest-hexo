@@ -198,7 +198,7 @@
 <tspan x="10" y="3130">  │ │ │ └── yallist@2.1.2 </tspan>
 <tspan x="10" y="3146">  │ │ └─┬ which@1.2.14 </tspan>
 <tspan x="10" y="3162">  │ │   └── isexe@2.0.0 </tspan>
-<tspan x="10" y="3178">  │ ├── highlight.js@9.10.0 </tspan>
+<tspan x="10" y="3178">  │ ├── highlight.js@9.11.0 </tspan>
 <tspan x="10" y="3194">  │ ├── html-entities@1.2.0 </tspan>
 <tspan x="10" y="3210">  │ └── striptags@2.2.1 </tspan>
 <tspan x="10" y="3226">  ├─┬ js-yaml@3.8.3 </tspan>
